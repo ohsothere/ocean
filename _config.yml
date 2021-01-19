@@ -96,7 +96,7 @@ author:
   name             : "Ocean"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Web developer"
-  location         : "Somewhere"
+  location         : "Korea"
   email            : "oceanoo@naver.com"
   links:
     - label: "Email"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+        url: "https://github.com/ohsothere"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+        url: "https://github.com/ohsothere"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -276,6 +276,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
