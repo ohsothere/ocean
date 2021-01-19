@@ -1,0 +1,9 @@
+---
+title: "Welcome to Jekyll!"
+date: 2021-01-19 16:50:28 -0400
+categories: jekyll update
+---
+
+I'm glad to make this blog!
+The blog is my portfoilo and I want to use when I get a job.
+I hope that day comes someday.
