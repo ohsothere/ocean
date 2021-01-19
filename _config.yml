@@ -19,9 +19,9 @@ locale                   : "en-US"
 title                    : "Ocean website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Ocean(ohsothere)"
+name                     : "Ocean(ohsotehre)"
 description              : "An amazing website."
-url                      : "https://ocean.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -91,12 +91,12 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-NAVER blog
+# Site Author
 author:
-  name             : "ocean"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am software developer"
-  location         : "oceanoo@naver.com"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
