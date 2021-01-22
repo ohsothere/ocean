@@ -1,9 +1,8 @@
 ---
 title: "This is my first post!"
 date: 2021-01-19 16:50:28 -0400
-categories: first post 
+categories: 첫 포스트 
 ---
 
-I'm glad to make this blog!
-The blog is my portfoilo and I want to use when I get a job.
-I hope that day comes someday.
+이 블로그를 만드니 나만의 공간을 내가 만든 것 같아 행복하다
+이곳에는 내가 공부하는 알고리즘이나 코딩테스트 풀이를 올리려고 한다
