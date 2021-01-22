@@ -1,7 +1,7 @@
 ---
-title: "This is my first post!"
+title: "첫 포스트!"
 date: 2021-01-19 16:50:28 -0400
-categories: 첫 포스트 
+categories: 첫 포스트 시작
 ---
 
 이 블로그를 만드니 나만의 공간을 내가 만든 것 같아 행복하다
