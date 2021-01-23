@@ -4,9 +4,9 @@ main:
     url: https://ohsothere.github.io/ocean.github.io/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "코딩 풀이"
-     url: /categories/코딩 풀이/
+  - title: "코딩 풀이"
+    url: /categories/코딩 풀이/
   - title: "Categories"
     url: /categories/
-   - title: "Tags"
-     url: /tags/
+  - title: "Tags"
+    url: /tags/
