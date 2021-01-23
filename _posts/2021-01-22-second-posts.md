@@ -1,5 +1,5 @@
 ---
 title: ""
-date: 2021-01-19 16:50:28 -0400
-categories: 첫 포스트 시작
+date: 2021-01-23 13:10:45 -0400
+categories: 프로그래머스 programmers 코딩테스트 풀이
 ---
