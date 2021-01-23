@@ -18,14 +18,14 @@ foo:
         url: /child-3-page-url/
 
 
-
-main: 
-  - title: "블로그 방문하기"
-    url: https://ohsothere.github.io/ocean.github.io/
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: /docs/quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "Categories"
-    url: /categories/
+  - title: "Sample Posts"
+    url: /year-archive/
   - title: "Sample Collections"
     url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
