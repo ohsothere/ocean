@@ -2,8 +2,8 @@
 main:
   - title: "블로그 방문하기"
     url: https://ohsothere.github.io/ocean/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+   - title: "About"
+     url: /about/
   - title: "코딩 풀이"
     url: /categories/코딩 풀이/
   - title: "Categories"
