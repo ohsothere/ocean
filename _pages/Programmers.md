@@ -1,5 +1,5 @@
 ---
-title: "프로그래머스 코딩 풀이"
+title: "프로그래머스 풀이"
 permalink: /categories/코딩 풀이/
 layout: category
 author_profile: true
