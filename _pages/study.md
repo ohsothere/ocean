@@ -1,6 +1,6 @@
 ---
 title: "study"
-permalink: /study/
+permalink: category/study/
 layout: category
 author_profile: true
 toc_sticky: true
