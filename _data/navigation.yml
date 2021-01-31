@@ -3,7 +3,7 @@ main:
   - title: "블로그 방문하기"
     url: https://ohsothere.github.io/ocean/
   - title: "about
-    url: categories/about/
+    url: /about/
   - title: "코딩 풀이"
     url: /categories/코딩풀이/
   - title: "Categories"
