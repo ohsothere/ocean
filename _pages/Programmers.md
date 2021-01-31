@@ -1,6 +1,6 @@
 ---
 title: "코드 풀이"
-permalink: /categories/코딩풀이/
+permalink: /categories/코드풀이/
 layout: category
 author_profile: true
 toc_sticky: true
