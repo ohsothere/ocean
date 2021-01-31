@@ -1,7 +1,7 @@
 ---
 title: "study"
 permalink: categories/study/
-layout: categories
+layout: category
 author_profile: true
 toc_sticky: true
 toc_ads : true
