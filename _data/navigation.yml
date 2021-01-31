@@ -4,8 +4,8 @@ main:
     url: https://ohsothere.github.io/ocean/
   - title: "study"
     url: categories/study/
-  - title: "코딩 풀이"
-    url: /categories/코딩풀이/
+  - title: "코드 풀이"
+    url: /categories/코드풀이/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
