@@ -2,10 +2,10 @@
 main:
   - title: "블로그 방문하기"
     url: https://ohsothere.github.io/ocean/
-  - title: "study"
-    url: categories/study/
-  - title: "코드 풀이"
-    url: /categories/코드풀이/
+  - title: "about
+    url: categories/about/
+  - title: "코딩 풀이"
+    url: /categories/코딩풀이/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
