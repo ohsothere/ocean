@@ -1,4 +1,4 @@
----
+ ---
  title: "블로그 소개"
  permalink: /about/
  toc_sticky: true
