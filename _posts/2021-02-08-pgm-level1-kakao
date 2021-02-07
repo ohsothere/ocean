@@ -1,0 +1,23 @@
+---
+title:  "[알고리즘]프로그래머스 level1 크레인 인형뽑기 게임"
+excerpt: "2019 카카오 개발자 겨울 인턴십"
+toc: true
+toc_sticky: true
+categories:
+  - 코드풀이
+tags:
+  - 알고리즘
+last_modified_at: 2021-02-08T07:06:00-05:00
+---
+
+1.문제 설명
+
+게임개발자인 죠르디는 크레인 인형뽑기 기계를 모바일 게임으로 만들려고 합니다.  
+죠르디는 게임의 재미를 높이기 위해 화면 구성과 규칙을 다음과 같이 게임 로직에 반영하려고 합니다.
+
+![](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/69f1cd36-09f4-4435-8363-b71a650f7448/crane_game_101.png){: .align-center}
+
+
+
+
+
