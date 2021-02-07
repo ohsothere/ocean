@@ -1,5 +1,5 @@
 ---
-title:  "[알고리즘]프로그래머스 level1 크레인 인형뽑기 게임"
+title:  "프로그래머스 level1 크레인 인형뽑기 게임"
 excerpt: "2019 카카오 개발자 겨울 인턴십"
 toc: true
 toc_sticky: true
