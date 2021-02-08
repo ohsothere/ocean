@@ -5,7 +5,6 @@ categories :
   - 잡담
 tags : 
   - 첫포스트
-  - 시작
 ---
 
 지킬을 사용해서 github 블로그를 만들었다.
