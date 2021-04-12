@@ -1,0 +1,26 @@
+---
+title:  "프로세스 스케줄링 알고리즘"
+excerpt: "FCFS 스케줄링과 RR 스케줄링"
+toc: true
+toc_sticky: true
+categories:
+  - 공부
+tags:
+  - 운영체제
+last_modified_at: 2021-04-012T09:06:00-05:00
+---
+
+### 스케줄링이란?  
+일들의 순서를 정하는 일  
+
+##### 프로세스 스케줄링: 
+CPU를 사용하려는 프로세스들 사이의 우선순위를 관리하는 일  
+
+##### 디스크 스케줄링: 
+디스크를 사용하려고 하는 프로세스들의 우선순위를 관리하는 일  
+
+![OS프로세스](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter3/3_02_ProcessState.jpg){: .align-center}
+
+스케줄링은 처리율과 CPU 이용률 증가시키고 오버헤드/응답시간/반환시간/대기시간 최소화 시키는 기법이다. CPU가 쉬지않고 계속 열심히 일 할 수 있도록 계획을 잡아준다.
+
+대표적인 비선점 스케줄링
