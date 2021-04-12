@@ -1,6 +1,6 @@
 ---
-title:  "프로세서"
-excerpt: "프로세서"
+title:  "FCFS와 RR 프로세스 스케줄링 알고리즘"
+excerpt: "선점형과 비선점형 프로세스 스케줄링"
 toc: true
 toc_sticky: true
 categories:
