@@ -21,14 +21,16 @@ CPU를 사용하려는 프로세스들 사이의 우선순위를 관리하는 �
 
 ![OS프로세스](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter3/3_02_ProcessState.jpg){: .align-center}
 
-스케줄링은 처리율과 CPU 이용률 증가시키고 오버헤드/응답시간/반환시간/대기시간 최소화 시키는 기법이다. CPU가 쉬지않고 계속 열심히 일 할 수 있도록 계획을 잡아준다.
+스케줄링은 처리율과 CPU 이용률 증가시키고 오버헤드/응답시간/반환시간/대기시간 최소화 시키는 기법이다. CPU가 쉬지않고 계속 열심히 일 할 수 있도록 계획을 잡아준다.  
 
-대표적인 비선점 스케줄링
-FCFS 스케줄링
-![](
+FCFS(First-Come, First-Served) 스케줄링
+![](https://www.studytonight.com/operating-system/images/fcfs.png){: .align-center}
 FCFS는 먼저 프로세스를 요청한 프로세스부터 CPU를 할당한다. CPU가 할당되면 끝나 반납할 때 까지 다른 프로세스들은 기다려야한다. 
 
 단점: 평균 대기시간이 길어진다
 중요한 프로세스가 나중에 실행될 수 있다.
 
-RR 
+
+RR 프로세스 스케줄링
+
+![](https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1604904974-71449.png){: .align-center}
